@@ -1,0 +1,19 @@
+.container {
+	width: 94%;
+	margin: 0 auto;
+}
+
+
+
+
+
+.cabecalhoPrincipal .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /*separa os elementos de dentro*/
+}
+
+.cabecalhoPrincipal-nav{
+    display: flex;
+    align-items: center;
+}
